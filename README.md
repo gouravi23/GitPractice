@@ -1,2 +1,1 @@
-#Git Practical
-Learning Git Commands
+learning git nd github
